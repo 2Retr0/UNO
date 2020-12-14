@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" C:\Users\Retr0\Documents\1SHORTCUTS\CS110C\UNO
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-release-visual-studio

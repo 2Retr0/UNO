@@ -1,0 +1,3 @@
+/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-wsl_profile/CMakeFiles/UNO.dir

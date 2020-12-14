@@ -1,0 +1,3 @@
+C:/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-release-visual-studio/CMakeFiles/UNO.dir
+C:/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
