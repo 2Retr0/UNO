@@ -1,1 +1,10 @@
-/cmake-build-*
+# Ignore everything
+/*
+
+# Folders
+!/include
+!/src
+
+# Files
+!/.gitignore
+!/CMakeLists.txt
