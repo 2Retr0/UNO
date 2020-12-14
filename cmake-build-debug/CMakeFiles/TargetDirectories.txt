@@ -1,3 +1,0 @@
-/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Retr0/Documents/1SHORTCUTS/CS110C/UNO/cmake-build-debug/CMakeFiles/UNO.dir
